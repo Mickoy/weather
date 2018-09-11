@@ -1,0 +1,16 @@
+[
+{
+    "clear-day": "sun",
+    "clear-night": "moon",
+    "rain": "rain",
+    "snow": "snow",
+    "sleet": "sleet",
+    "wind": "wind",
+    "fog": "fog",
+    "cloudy": "cloud",
+    "partly-cloudy-day": "cloud sun",
+    "partly-cloudy-night": "cloud moon",
+    "hail": "hail",
+    "thunderstorm": "lightning",
+    "tornado": "tornado"
+}]
